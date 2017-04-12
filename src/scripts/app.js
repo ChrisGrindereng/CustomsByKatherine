@@ -5,7 +5,7 @@ const app = function() {
 
 	const Header = React.createClass({
 		render: () => {
-			return <h1></h1>
+			return <h1>Customs By Katherine</h1>
 		}
 	})
 
